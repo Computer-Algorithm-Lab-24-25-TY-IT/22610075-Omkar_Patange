@@ -1,2 +1,8 @@
 # 22610075-Omkar_Patange
-Assignment 01 Computer Algorithm
+# Assignments Computer Algorithm
+
+## CA Assignment 01
+### Program on Binary Search
+
+### Ouput
+
